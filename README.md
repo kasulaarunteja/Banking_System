@@ -1,7 +1,7 @@
 # Banking_System
-We will create a Banking System
+ create a Banking System
 
-We need to create the following Schemas
+ create the following Schemas
 
 // add timestamps for everything
 
